@@ -13,4 +13,4 @@
 | Mark      | Figma Design: Landing Page, Login, Register           | April 21–25 (Mon–Fri) |
 | ALL       | Defense Day                                           | April 26 (Sat)        |
 | ALL       | FGD: Aftermath of Defense                             | April 27 (Sun)        |
-|To be Cotinue                                                                              |
+|To be Cotinued                                                                              |
