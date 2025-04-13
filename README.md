@@ -1,7 +1,5 @@
 # CAPSTONE-Development-Road-Map
-A roadmap for capstone development
-
-## 📅
+## 📅 A roadmap for capstone development (System Only)
 
 | Who       | Expected                                              | Date                  |
 |-----------|-------------------------------------------------------|-----------------------|
