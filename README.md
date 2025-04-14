@@ -1,5 +1,5 @@
 <h1 align="center">CAPSTONE-Development-Road-Map</h1>
-<h2 align="center">📅 A roadmap for capstone development (System Only)</h2>
+<h2 align="center">📅 A roadmap for Capstone Development (System Only)</h2>
 
 <div align="center">
 
