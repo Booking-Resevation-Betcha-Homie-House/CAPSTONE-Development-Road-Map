@@ -3,8 +3,8 @@
 
 | Who       | Expected                                              | Date                  |Status |
 |-----------|-------------------------------------------------------|-----------------------|-------|
-| Christian | Use-Case: Landing, Login, Register                    | April 13 (Sun)        |✅    |
-| Christian | Use-Case: Admin Module                                | April 14 (Mon)        |✅    |
+| Christian | Use-Case: Landing, Login, Register                    | April 13 (Sun)        |  ✅   |
+| Christian | Use-Case: Admin Module                                | April 14 (Mon)        |  ✅   |
 | Christian | Use-Case: Employee Module                             | April 15 (Tues)       |
 | Christian | Use-Case: Guest Module                                | April 16 (Wed)        |
 | Christian | Use-Case: Compiling                                   | April 17 (Thu)        |
