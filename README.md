@@ -29,7 +29,7 @@
       <td align="center">Christian</td>
       <td align="center">Use-Case: Employee Module</td>
       <td align="center">April 15 (Tues)</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center">Christian</td>
