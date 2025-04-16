@@ -41,7 +41,7 @@
       <td align="center">Christian</td>
       <td align="center">Use-Case: Compiling</td>
       <td align="center">April 17 (Thu)</td>
-      <td align="center">✅ finished on April 16</td>
+      <td align="center">✅ Finished on April 16</td>
     </tr>
     <tr>
       <td align="center">ALL</td>
