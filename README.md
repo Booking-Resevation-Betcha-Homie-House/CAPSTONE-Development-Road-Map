@@ -35,7 +35,7 @@
       <td align="center">Christian</td>
       <td align="center">Use-Case: Guest Module</td>
       <td align="center">April 16 (Wed)</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center">Christian</td>
