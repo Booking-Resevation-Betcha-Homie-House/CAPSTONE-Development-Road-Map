@@ -45,7 +45,7 @@
     </tr>
     <tr>
       <td align="center">ALL</td>
-      <td align="center">FGD: Checking Use-Case (preferably night)</td>
+      <td align="center">FGD: Checking Use-Case (7:00 PM)</td>
       <td align="center">April 18 (Fri)</td>
       <td align="center"></td>
     </tr>
