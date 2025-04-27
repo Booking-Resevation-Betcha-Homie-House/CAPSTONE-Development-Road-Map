@@ -81,7 +81,7 @@
     </tr>
     <tr>
       <td align="center">Christian</td>
-      <td align="center">Database Model</td>
+      <td align="center">Database Model (blueprints of each collection)</td>
       <td align="center">April 30 (Wed)</td>
       <td align="center"></td>
     </tr>
