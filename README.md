@@ -58,7 +58,7 @@
     <tr>
       <td align="center">Mark</td>
       <td align="center">Figma Design: Landing Page, Login, Register w/ mobile</td>
-      <td align="center">April 21– May 6 (Mon–Fri)</td>
+      <td align="center">April 21– May 6</td>
       <td align="center"></td>
     </tr>
     <tr>
