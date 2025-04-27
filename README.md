@@ -69,13 +69,13 @@
     </tr>
     <tr>
       <td align="center">ALL</td>
-      <td align="center">FGD: Identify and Solving the revisions (on vacant) </td>
+      <td align="center">FGD: Identify and solve the revisions. List all the solution</td>
       <td align="center">April 28 (Mon)</td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center">ALL</td>
-      <td align="center">Revisions</td>
+      <td align="center">REVISIONS: Implementing the solutioin from FGD to document</td>
       <td align="center">April 28-30 (Mon)</td>
       <td align="center"></td>
     </tr>
