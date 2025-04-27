@@ -87,7 +87,7 @@
     </tr>
         <tr>
       <td align="center">ALL</td>
-      <td align="center">Checking and Submission of Revision</td>
+      <td align="center">Checking and Submission of Revisions</td>
       <td align="center">April 31 (Thu)</td>
       <td align="center"></td>
     </tr>
