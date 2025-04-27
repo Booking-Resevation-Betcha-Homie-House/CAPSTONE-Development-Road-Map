@@ -69,7 +69,7 @@
     </tr>
     <tr>
       <td align="center">ALL</td>
-      <td align="center">FGD: Aftermath of Defense (on vacant) </td>
+      <td align="center">FGD: Identify and Solving the revisions (on vacant) </td>
       <td align="center">April 28 (Mon)</td>
       <td align="center"></td>
     </tr>
