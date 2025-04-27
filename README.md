@@ -57,8 +57,8 @@
     </tr>
     <tr>
       <td align="center">Mark</td>
-      <td align="center">Figma Design: Landing Page, Login, Register</td>
-      <td align="center">April 21–25 (Mon–Fri)</td>
+      <td align="center">Figma Design: Landing Page, Login, Register w/ mobile</td>
+      <td align="center">April 21– May 6 (Mon–Fri)</td>
       <td align="center"></td>
     </tr>
     <tr>
@@ -69,8 +69,14 @@
     </tr>
     <tr>
       <td align="center">ALL</td>
-      <td align="center">FGD: Aftermath of Defense</td>
-      <td align="center">April 27 (Sun)</td>
+      <td align="center">FGD: Aftermath of Defense (on vacant) </td>
+      <td align="center">April 28 (Mon)</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">ALL</td>
+      <td align="center">Revisions</td>
+      <td align="center">April 28-30 (Mon)</td>
       <td align="center"></td>
     </tr>
     <tr>
