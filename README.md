@@ -53,7 +53,7 @@
       <td align="center">Mark</td>
       <td align="center">Figma Design: Themes</td>
       <td align="center">April 19–20 (Sat–Sun)</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center">Mark</td>
@@ -65,7 +65,7 @@
       <td align="center">ALL</td>
       <td align="center">Defense Day</td>
       <td align="center">April 26 (Sat)</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center">ALL</td>
