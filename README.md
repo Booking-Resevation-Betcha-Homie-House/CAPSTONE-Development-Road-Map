@@ -58,7 +58,7 @@
     <tr>
       <td align="center">Mark</td>
       <td align="center">Figma Design: Landing Page, Login, Register w/ mobile</td>
-      <td align="center">April 21– May 6</td>
+      <td align="center">April 21–May 11</td>
       <td align="center"></td>
     </tr>
     <tr>
@@ -90,6 +90,15 @@
       <td align="center">Checking and Submission of Revisions</td>
       <td align="center">April 31 (Thu)</td>
       <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td align="center" colspan="4"><b>To be Continued</b></td>
+    </tr>
+        <tr>
+      <td align="center">ALL</td>
+      <td align="center">Online Meeting: Task Checking</td>
+      <td align="center">May 11, 7:00PM (Sun)</td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center" colspan="4"><b>To be Continued</b></td>
