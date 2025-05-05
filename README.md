@@ -92,8 +92,6 @@
       <td align="center">✅</td>
     </tr>
     <tr>
-      <td align="center" colspan="4"><b>To be Continued</b></td>
-    </tr>
         <tr>
       <td align="center">ALL</td>
       <td align="center">Online Meeting: Task Checking</td>
