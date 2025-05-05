@@ -83,13 +83,13 @@
       <td align="center">Christian</td>
       <td align="center">Database Model (blueprints of each collection)</td>
       <td align="center">April 30 (Wed)</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
     </tr>
         <tr>
       <td align="center">ALL</td>
       <td align="center">Checking and Submission of Revisions</td>
       <td align="center">April 31 (Thu)</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center" colspan="4"><b>To be Continued</b></td>
