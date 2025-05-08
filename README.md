@@ -99,7 +99,7 @@
     </tr>
    <tr>
       <td align="center">ALL</td>
-      <td align="center">Update Checking and Planning</td>
+      <td align="center">Online Meeting: Update Checking and Planning</td>
       <td align="center">May 11 (Sun) 7:00PM-8:00PM</td>
       <td align="center"></td>
     </tr>
@@ -108,5 +108,4 @@
     </tr>
   </tbody>
 </table>
-
 </div>
