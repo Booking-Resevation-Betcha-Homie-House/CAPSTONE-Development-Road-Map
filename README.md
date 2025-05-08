@@ -92,12 +92,6 @@
       <td align="center">✅</td>
     </tr>
     <tr>
-        <tr>
-      <td align="center">ALL</td>
-      <td align="center">Online Meeting: Task Checking</td>
-      <td align="center">May 11, 7:00PM (Sun)</td>
-      <td align="center"></td>
-    </tr>
     <tr>
       <td align="center" colspan="4"><b>To be Continued</b></td>
     </tr>
