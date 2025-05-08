@@ -93,7 +93,7 @@
     </tr>
     <tr>
       <td align="center">Christian</td>
-      <td align="center">Updating the use-case</td>
+      <td align="center">Update: use-case</td>
       <td align="center">May 10 (Sat)</td>
       <td align="center"></td>
     </tr>
