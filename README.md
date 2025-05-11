@@ -91,6 +91,12 @@
       <td align="center">April 31 (Thu)</td>
       <td align="center">✅</td>
     </tr>
+    <tr>
+      <td align="center">Christian</td>
+      <td align="center">Update use-case</td>
+      <td align="center">May 11 (Sun)</td>
+      <td align="center">✅</td>
+    </tr>
    <tr>
       <td align="center">ALL</td>
       <td align="center">Online Meeting: Update Checking and Planning</td>
