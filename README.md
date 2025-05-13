@@ -100,7 +100,7 @@
    <tr>
       <td align="center">ALL</td>
       <td align="center">Online Meeting: Update Checking and Planning</td>
-      <td align="center">May 12 (Mon) 7:00PM-8:00PM</td>
+      <td align="center">May 13 (Tue) 7:00PM-8:00PM</td>
       <td align="center"></td>
     </tr>
     <tr>
