@@ -59,7 +59,7 @@
       <td align="center">Mark</td>
       <td align="center">Figma Design: Landing Page, Login, Register w/ mobile</td>
       <td align="center">April 21–May 17</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center">ALL</td>
@@ -102,9 +102,6 @@
       <td align="center">Online Meeting: Update Checking and Planning</td>
       <td align="center">May 13 (Tue) f2f</td>
       <td align="center">✅</td>
-    </tr>
-    <tr>
-      <td align="center" colspan="4"><b>To be Continued</b></td>
     </tr>
    <tr>
       <td align="center">ALL</td>
