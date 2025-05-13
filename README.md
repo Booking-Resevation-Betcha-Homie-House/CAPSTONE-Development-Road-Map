@@ -101,7 +101,7 @@
       <td align="center">ALL</td>
       <td align="center">Online Meeting: Update Checking and Planning</td>
       <td align="center">May 13 (Tue) f2f</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center" colspan="4"><b>To be Continued</b></td>
