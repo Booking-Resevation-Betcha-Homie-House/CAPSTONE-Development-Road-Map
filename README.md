@@ -107,13 +107,13 @@
       <td align="center">Mark</td>
       <td align="center">Guest Design Pages</td>
       <td align="center">May 13-? (Tue) f2f</td>
-      <td align="center"></td>
+      <td align="center">⏸</td>
     </tr>
 <tr>
       <td align="center">Christian</td>
       <td align="center">Route Structures</td>
       <td align="center">May 13-20 (Tue) f2f</td>
-      <td align="center">⏸</td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center" colspan="4"><b>To be Continued</b></td>
