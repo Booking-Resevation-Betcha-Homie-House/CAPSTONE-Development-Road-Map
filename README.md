@@ -99,20 +99,26 @@
     </tr>
    <tr>
       <td align="center">ALL</td>
-      <td align="center">Online Meeting: Update Checking and Planning</td>
+      <td align="center">Meeting: Update Checking and Planning</td>
       <td align="center">May 13 (Tue) f2f</td>
       <td align="center">✅</td>
     </tr>
-   <tr>
+    <tr>
       <td align="center">Mark</td>
       <td align="center">Guest Design Pages</td>
       <td align="center">May 13-? (Tue) f2f</td>
       <td align="center">⏸</td>
     </tr>
-<tr>
+    <tr>
       <td align="center">Christian</td>
-      <td align="center">Route Structures</td>
-      <td align="center">May 13-20 (Tue) f2f</td>
+      <td align="center">Route Structure: User Levels</td>
+      <td align="center">May 13-20 (Tue)</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">Christian</td>
+      <td align="center">Route Structures: Authentication</td>
+      <td align="center">May 21-27 (Tue)</td>
       <td align="center"></td>
     </tr>
     <tr>
