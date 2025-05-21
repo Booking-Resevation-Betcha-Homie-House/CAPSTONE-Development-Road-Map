@@ -113,7 +113,7 @@
       <td align="center">Christian</td>
       <td align="center">Route Structure: User Levels</td>
       <td align="center">May 13-20 (Tue)</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center">Christian</td>
