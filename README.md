@@ -107,7 +107,7 @@
       <td align="center">Mark</td>
       <td align="center">Guest Design Figma Pages</td>
       <td align="center">May 13-June 10</td>
-      <td align="center">⏸</td>
+      <td align="center"></td>
     </tr>
     <tr>
       <td align="center">Christian</td>
