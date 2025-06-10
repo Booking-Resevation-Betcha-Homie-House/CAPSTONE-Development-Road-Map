@@ -122,9 +122,15 @@
       <td align="center">✅</td>
     </tr>
     <tr>
+      <td align="center">Christian</td>
+      <td align="center">Setup Environment: BACKEND</td>
+      <td align="center">June 11(Wed)</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
       <td align="center">ALL</td>
       <td align="center">Online Update Checking & Planning 1</td>
-      <td align="center">June 13(Fri)</td>
+      <td align="center">June 17(Fri)</td>
       <td align="center"></td>
     </tr>
     <tr>
