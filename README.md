@@ -121,6 +121,7 @@
       <td align="center">May 21-27 (Thurs)</td>
       <td align="center">✅</td>
     </tr>
+    <tr>
       <td align="center">ALL</td>
       <td align="center">Online Update Checking & Planning 1</td>
       <td align="center">June 13(Fri)</td>
