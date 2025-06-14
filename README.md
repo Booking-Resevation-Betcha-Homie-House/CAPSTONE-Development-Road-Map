@@ -125,7 +125,7 @@
       <td align="center">Christian</td>
       <td align="center">Setup Environment: BACKEND</td>
       <td align="center">June 11(Wed)</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center">ALL</td>
