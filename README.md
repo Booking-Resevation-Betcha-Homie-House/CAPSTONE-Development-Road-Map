@@ -136,12 +136,18 @@
     <tr>
       <td align="center">ALL</td>
       <td align="center">Online Update Checking & Planning 2</td>
-      <td align="center">July 1(Tue)</td>
+      <td align="center">June 24 1(Tue)</td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center">ALL</td>
       <td align="center">Online Update Checking & Planning 3</td>
+      <td align="center">July 1(Tue)</td>
+      <td align="center"></td>
+    </tr>
+    <tr>
+      <td align="center">ALL</td>
+      <td align="center">Online Update Checking & Planning 4</td>
       <td align="center">July 8(Tue)</td>
       <td align="center"></td>
     </tr>
