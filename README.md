@@ -107,7 +107,7 @@
       <td align="center">Mark</td>
       <td align="center">Guest Design Figma Pages</td>
       <td align="center">May 13-June 12</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center">Christian</td>
@@ -131,7 +131,13 @@
       <td align="center">ALL</td>
       <td align="center">Online Update Checking & Planning 1</td>
       <td align="center">June 17(Fri)</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
+    </tr>
+    <tr>
+      <td align="center">ALL</td>
+      <td align="center">Online Update Checking & Planning 2</td>
+      <td align="center">July 1(Tue)</td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center" colspan="4"><b>To be Continued</b></td>
