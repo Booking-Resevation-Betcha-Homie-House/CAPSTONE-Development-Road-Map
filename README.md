@@ -137,7 +137,7 @@
       <td align="center">ALL</td>
       <td align="center">Online Update Checking & Planning 2</td>
       <td align="center">June 24 1(Tue)</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center">ALL</td>
