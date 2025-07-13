@@ -178,7 +178,7 @@
     <tr>
       <td align="center">ALL</td>
       <td align="center">Synchronous Testing</td>
-      <td align="center">July 26(Tue)</td>
+      <td align="center">July 26(Sat)</td>
       <td align="center"></td>
     </tr>
    <tr>
