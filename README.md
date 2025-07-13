@@ -149,24 +149,24 @@
       <td align="center">ALL</td>
       <td align="center">Online Update Checking & Planning 4</td>
       <td align="center">July 8(Tue)</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center">ALL</td>
       <td align="center">Checking UI Design and Backend</td>
-      <td align="center">July 15(Tue)</td>
+      <td align="center">July 22(Tue)</td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center">Mark</td>
       <td align="center">Whole UI Design</td>
-      <td align="center">Until July 15(Tue)</td>
+      <td align="center">Until July 22(Tue)</td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center">Christian</td>
       <td align="center">Whole Backend and API</td>
-      <td align="center">Until July 15(Tue)</td>
+      <td align="center">Until July 22(Tue)</td>
       <td align="center"></td>
     </tr>
     <tr>
