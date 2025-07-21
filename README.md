@@ -153,14 +153,14 @@
     </tr>
     <tr>
       <td align="center">ALL</td>
-      <td align="center">Checking UI Design and Backend</td>
-      <td align="center">July 27(Tue)</td>
+      <td align="center">Checking UI Design</td>
+      <td align="center">July 29(Tue)</td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center">Mark</td>
       <td align="center">Whole UI Design</td>
-      <td align="center">Until July 27(Tue)</td>
+      <td align="center">Until July 29(Tue)</td>
       <td align="center"></td>
     </tr>
     <tr>
@@ -172,7 +172,7 @@
     <tr>
       <td align="center">Luke & Christian</td>
       <td align="center">Integration</td>
-      <td align="center">July 28-Aug 2(Tue)</td>
+      <td align="center">July 30-Aug 2(Tue)</td>
       <td align="center"></td>
     </tr>
     <tr>
