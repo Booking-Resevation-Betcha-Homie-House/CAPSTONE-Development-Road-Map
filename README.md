@@ -153,14 +153,14 @@
     </tr>
     <tr>
       <td align="center">ALL</td>
-      <td align="center">Checking UI Design</td>
+      <td align="center">Checking UI Design (F2F)</td>
       <td align="center">July 29(Tue)</td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center">Mark</td>
       <td align="center">Whole UI Design</td>
-      <td align="center">Until July 29(Tue)</td>
+      <td align="center">Until July 28(Mon)</td>
       <td align="center"></td>
     </tr>
     <tr>
