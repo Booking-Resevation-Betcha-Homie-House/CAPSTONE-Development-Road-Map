@@ -166,7 +166,7 @@
     <tr>
       <td align="center">Christian</td>
       <td align="center">Whole Backend and API</td>
-      <td align="center">Until July 27(Tue)</td>
+      <td align="center">Until July 8(Tue)</td>
       <td align="center">✅ Finished on June 30</td>
     </tr>
     <tr>
