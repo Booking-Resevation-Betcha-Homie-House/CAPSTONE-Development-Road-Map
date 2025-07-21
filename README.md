@@ -154,37 +154,37 @@
     <tr>
       <td align="center">ALL</td>
       <td align="center">Checking UI Design and Backend</td>
-      <td align="center">July 22(Tue)</td>
+      <td align="center">July 27(Tue)</td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center">Mark</td>
       <td align="center">Whole UI Design</td>
-      <td align="center">Until July 22(Tue)</td>
+      <td align="center">Until July 27(Tue)</td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center">Christian</td>
       <td align="center">Whole Backend and API</td>
-      <td align="center">Until July 22(Tue)</td>
-      <td align="center"></td>
+      <td align="center">Until July 27(Tue)</td>
+      <td align="center">✅ Finished on June 30</td>
     </tr>
     <tr>
       <td align="center">Luke & Christian</td>
       <td align="center">Integration</td>
-      <td align="center">July 22-26</td>
+      <td align="center">July 28-Aug 2(Tue)</td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center">ALL</td>
       <td align="center">Synchronous Testing</td>
-      <td align="center">July 26(Sat)</td>
+      <td align="center">Aug 2(Sat)</td>
       <td align="center"></td>
     </tr>
    <tr>
       <td align="center">ALL</td>
-      <td align="center">Revision</td>
-      <td align="center">July 27-?</td>
+      <td align="center">Fix bugs</td>
+      <td align="center">Aug 3(Sun)-?</td>
       <td align="center"></td>
     </tr>
     <tr>
