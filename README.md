@@ -176,8 +176,8 @@
       <td align="center"></td>
     </tr>
     <tr>
-      <td align="center">ALL</td>
-      <td align="center">Synchronous Testing</td>
+      <td align="center">ALL w/ sir jay</td>
+      <td align="center">Synchronous Testing & Checking</td>
       <td align="center">Aug 18 (Mon)</td>
       <td align="center"></td>
     </tr>
