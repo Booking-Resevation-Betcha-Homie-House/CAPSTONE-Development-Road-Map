@@ -155,13 +155,13 @@
       <td align="center">ALL</td>
       <td align="center">Checking UI Design (F2F)</td>
       <td align="center">Aug 11(Mon)</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center">Mark</td>
       <td align="center">Whole UI Design</td>
       <td align="center">Until aug 10</td>
-      <td align="center"></td>
+      <td align="center">✅</td>
     </tr>
     <tr>
       <td align="center">Christian</td>
@@ -172,19 +172,19 @@
     <tr>
       <td align="center">Luke & Christian</td>
       <td align="center">Integration</td>
-      <td align="center">Aug 11-18 (Mon)</td>
+      <td align="center">Aug 15-24 (Fri-Sun)</td>
       <td align="center"></td>
     </tr>
     <tr>
       <td align="center">ALL w/ sir jay</td>
       <td align="center">Synchronous Testing & Checking</td>
-      <td align="center">Aug 18 (Mon)</td>
+      <td align="center">Aug 25 (Mon)</td>
       <td align="center"></td>
     </tr>
    <tr>
       <td align="center">ALL</td>
       <td align="center">Revision</td>
-      <td align="center">Aug 18-25</td>
+      <td align="center">Aug 25-?</td>
       <td align="center"></td>
     </tr>
     <tr>
