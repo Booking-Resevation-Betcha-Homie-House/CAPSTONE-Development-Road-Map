@@ -172,7 +172,7 @@
     <tr>
       <td align="center">Luke & Christian</td>
       <td align="center">Integration</td>
-      <td align="center">Aug 15-24 (Fri-Sun)</td>
+      <td align="center">Aug 15-25 (Fri-Sun)</td>
       <td align="center"></td>
     </tr>
     <tr>
